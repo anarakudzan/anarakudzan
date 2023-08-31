@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anarakudzan
-- 👀 I’m interested in the Java programming language
+- 👀 I’m interested in the web programming 
 - 🌱 I’m currently learning in shcool
-- 💞️ I’m looking to collaborate as Junior Java developer
+- 💞️ I’m looking to collaborate as frontend developer
 - 📫 How to reach me ...
 
 <!---
